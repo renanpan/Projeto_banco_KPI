@@ -1,4 +1,6 @@
-## Saudações, o objetivo deste é o de determinar os KPI's de um banco com base em um conjunto de dados, para então analisar com o Python as variáveis disponíveis e entender melhor o comprotamento dos clientes junto as transações financeiras que o banco oferece e se tem algum outro ponto que possa ser otimizado ou trabalhado a fim de conseguir novos clientes para o banco. 
+## Saudações, 
+### O objetivo deste é o de determinar os KPI's de um banco com base em um conjunto de dados, para então analisar com o Python as variáveis disponíveis e entender melhor o comprotamento dos clientes junto as transações financeiras que o banco oferece e se tem algum outro ponto que possa ser otimizado ou trabalhado a fim de conseguir novos clientes para o banco. 
+### Além disso, trago alguns dashboards confeccionados no Tableau Public que auxiliam na visualização dos dados ao longo do tempo.
 
 - O arquivo LH_AD_RENANPAN contém o relatório final com base na análise dos dados no formato pdf.
 
