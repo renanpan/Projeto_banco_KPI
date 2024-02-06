@@ -1,6 +1,4 @@
-## Saudações, neste repositório trago informações referentes a análise de KPI's de um banco.
-
-### Para isso, com base no banco de dados estarei realizando análises com o Python para entender melhor o comprotamento dos clientes junto as transações financeiras que o banco oferece. 
+## Saudações, o objetivo deste é o de determinar os KPI's de um banco com base em um conjunto de dados, para então analisar com o Python as variáveis disponíveis e entender melhor o comprotamento dos clientes junto as transações financeiras que o banco oferece e se tem algum outro ponto que possa ser otimizado ou trabalhado a fim de conseguir novos clientes para o banco. 
 
 Para ter acesso ao relatório de dados analisado com python no jupyter basta abrir o aquivo lighthouse_DA_project.ipynb
 
