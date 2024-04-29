@@ -16,3 +16,6 @@
         
     3° Dashboard – Valores disponibilizados para financiamentos ao longo dos anos; taxa de juros e número de propostas conforme saldo.
         https://public.tableau.com/views/Bank_project_17131782703130/Dashboard_financiamentos?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link
+
+  ## Melhorias futuras
+  - Adicionar o relatório e dashboard confeccionado com o Power BI 
